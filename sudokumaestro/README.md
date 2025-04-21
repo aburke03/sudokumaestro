@@ -6,7 +6,7 @@ A python AI Sudoku solver with a CustomTkinter GUI. Uses a CSP (Constraint Satis
 
 Clone the repo and enter its directory:
 ```bash
-git clone https://github.com/<your-username>/SudokuMaestro.git
+git clone https://github.com/aburke03/sudokumaestro.git
 cd sudokumaestro
 ```
 
