@@ -1,0 +1,5 @@
+# From standard library:
+# time, random, typing
+
+# External dependencies
+customtkinter>=5.2.2 
